@@ -1,0 +1,72 @@
+[
+        {
+            "start_frame": 6,
+            "end_frame": 36,
+            "event_type": 1,
+            "player_id": "3, 0",
+            "jersey_number": "4, 10"
+        },
+        {
+            "start_frame": 55,
+            "end_frame": 78,
+            "event_type": 1,
+            "player_id": "0, 1",
+            "jersey_number": "10, 12"
+        },
+        {
+            "start_frame": 157,
+            "end_frame": 186,
+            "event_type": 2,
+            "player_id": "2, 1",
+            "jersey_number": "10, 12"
+        },
+        {
+            "start_frame": 193,
+            "end_frame": 270,
+            "event_type": 7,
+            "player_id": "2",
+            "jersey_number": "10"
+        },
+        {
+            "start_frame": 291,
+            "end_frame": 337,
+            "event_type": 6,
+            "player_id": "2, 0",
+            "jersey_number": "10, 10"
+        },
+        {
+            "start_frame": 340,
+            "end_frame": 365,
+            "event_type": 1,
+            "player_id": "2, 4",
+            "jersey_number": "10, 6"
+        },
+        {
+            "start_frame": 374,
+            "end_frame": 398,
+            "event_type": 6,
+            "player_id": "4, 1",
+            "jersey_number": "6, 12"
+        },
+        {
+            "start_frame": 398,
+            "end_frame": 420,
+            "event_type": 3,
+            "player_id": "4",
+            "jersey_number": "6"
+        },
+        {
+            "start_frame": 400,
+            "end_frame": 418,
+            "event_type": 4,
+            "player_id": "1, 4",
+            "jersey_number": "12, 6"
+        },
+        {
+            "start_frame": 446,
+            "end_frame": 458,
+            "event_type": 5,
+            "player_id": "1",
+            "jersey_number": "12"
+        }
+    ]

@@ -1,0 +1,3285 @@
+[
+    {
+        "frame_id": "IMG_0113_7569_8026,00006",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.9298348426818848,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00007",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.9298348426818848,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00008",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.9299934506416321,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00009",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.9299934506416321,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00010",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.9174456000328064,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00011",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.9299934506416321,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00012",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.9236397743225098,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00013",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.9301375150680542,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00014",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.921773374080658,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00015",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.9219681024551392,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00016",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.8775755763053894,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00017",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 9,
+        "confidence": 0.6289371848106384,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00018",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.9149697422981262,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00019",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.8458296060562134,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00020",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.9065638780593872,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00021",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.9178702235221863,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00022",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.919522225856781,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00023",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.9205055236816406,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00024",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.9236912131309509,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00025",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.9279636144638062,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00026",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.930077314376831,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00027",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.9296000599861145,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00028",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.9290432333946228,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00029",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.9273278713226318,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00030",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.9245169162750244,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00031",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.920623779296875,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00032",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 9,
+        "confidence": 0.6717217564582825,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00033",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 1,
+        "confidence": 0.8233416080474854,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00034",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 9,
+        "confidence": 0.6951361298561096,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00035",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 9,
+        "confidence": 0.711621880531311,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00036",
+        "player_ids": [
+            0,
+            3
+        ],
+        "event_type": 9,
+        "confidence": 0.6334626078605652,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00055",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.9275307059288025,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00056",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.6883969902992249,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00057",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.9316085577011108,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00058",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.9317775368690491,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00059",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.9315570592880249,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00060",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.9313564300537109,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00061",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.9312026500701904,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00062",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.9306185841560364,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00063",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.9305059313774109,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00064",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.9301345348358154,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00065",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.9289802312850952,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00066",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.9269617199897766,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00067",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.9271504878997803,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00068",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.9282281994819641,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00069",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.6859601140022278,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00070",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.9293968677520752,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00071",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.928823709487915,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00072",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.9287436008453369,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00073",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.9280645847320557,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00074",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.9267783164978027,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00075",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.6848800182342529,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00076",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.9249136447906494,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00077",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.9194155931472778,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00078",
+        "player_ids": [
+            0,
+            1
+        ],
+        "event_type": 1,
+        "confidence": 0.9065297842025757,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00157",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7659265398979187,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00158",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7629529237747192,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00159",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7564616203308105,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00160",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7524492740631104,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00161",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.764812171459198,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00162",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.48367440700531006,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00163",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.8564485907554626,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00164",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.9445438385009766,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00165",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.9441487789154053,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00166",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.941817581653595,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00167",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.6965944170951843,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00168",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 4,
+        "confidence": 0.9212828278541565,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00169",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 4,
+        "confidence": 0.9293144345283508,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00170",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 4,
+        "confidence": 0.9322697520256042,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00171",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 4,
+        "confidence": 0.9139880537986755,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00172",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 4,
+        "confidence": 0.9398497343063354,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00173",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 4,
+        "confidence": 0.9405505061149597,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00174",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 4,
+        "confidence": 0.9414424300193787,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00175",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 4,
+        "confidence": 0.9419039487838745,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00176",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 4,
+        "confidence": 0.9412069916725159,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00177",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 4,
+        "confidence": 0.9420369267463684,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00178",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 4,
+        "confidence": 0.940848171710968,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00179",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 4,
+        "confidence": 0.9390668272972107,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00180",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 4,
+        "confidence": 0.9322291612625122,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00181",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.9435767531394958,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00181",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 4,
+        "confidence": 0.8609030246734619,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00182",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 4,
+        "confidence": 0.677462100982666,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00182",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.5701904892921448,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00183",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7362111806869507,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00184",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7489725351333618,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00185",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7033281922340393,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00186",
+        "player_ids": [
+            1,
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9056310653686523,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00193",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9394394159317017,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00194",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9415371417999268,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00195",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9428521990776062,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00196",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9424803853034973,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00197",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9207070469856262,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00198",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.942121148109436,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00199",
+        "player_ids": [
+            2
+        ],
+        "event_type": 4,
+        "confidence": 0.940105140209198,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00200",
+        "player_ids": [
+            2
+        ],
+        "event_type": 4,
+        "confidence": 0.9413856863975525,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00201",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9426555633544922,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00201",
+        "player_ids": [
+            2
+        ],
+        "event_type": 2,
+        "confidence": 0.5757899880409241,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00202",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9335331916809082,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00203",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9412261247634888,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00204",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.944082498550415,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00205",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9443491101264954,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00206",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9443455934524536,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00207",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9377892017364502,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00208",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9370702505111694,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00208",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.36470386385917664,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00209",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9449002742767334,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00209",
+        "player_ids": [
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.8622092604637146,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00210",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9446475505828857,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00211",
+        "player_ids": [
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.9373555779457092,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00211",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.5140597224235535,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00211",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.4653817117214203,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00212",
+        "player_ids": [
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.9368734955787659,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00213",
+        "player_ids": [
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.9419584274291992,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00214",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7535287737846375,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00215",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7560750842094421,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00216",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7590991854667664,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00217",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7607974410057068,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00218",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7483314275741577,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00219",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7695996761322021,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00220",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.747553825378418,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00220",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.8772630095481873,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00221",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.6663793921470642,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00221",
+        "player_ids": [
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.8953327536582947,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00222",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7299863696098328,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00222",
+        "player_ids": [
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.936627984046936,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00223",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.6151466369628906,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00223",
+        "player_ids": [
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.9439446926116943,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00224",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7237169742584229,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00224",
+        "player_ids": [
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.9463926553726196,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00225",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.6667541265487671,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00225",
+        "player_ids": [
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.9457066655158997,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00226",
+        "player_ids": [
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.9479595422744751,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00226",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7122885584831238,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00227",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.6945188641548157,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00227",
+        "player_ids": [
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.9457479119300842,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00228",
+        "player_ids": [
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.9462156891822815,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00228",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7210947871208191,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00229",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.685023307800293,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00229",
+        "player_ids": [
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.9474341869354248,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00230",
+        "player_ids": [
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.9455646276473999,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00231",
+        "player_ids": [
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.9468095898628235,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00232",
+        "player_ids": [
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.9469192624092102,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00233",
+        "player_ids": [
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.9451512694358826,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00234",
+        "player_ids": [
+            2
+        ],
+        "event_type": 5,
+        "confidence": 0.9442372918128967,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00235",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7288205623626709,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00236",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.4215785562992096,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00236",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.8730968236923218,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00237",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.6733835339546204,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00237",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.7013556957244873,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00238",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.5058706402778625,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00238",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.5010753273963928,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00239",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.75722736120224,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00240",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.769493579864502,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00241",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7708754539489746,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00242",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7718241810798645,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00243",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7702440619468689,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00244",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7651537656784058,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00245",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7506573796272278,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00246",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7441784143447876,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00247",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7317034006118774,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00248",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7072043418884277,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00249",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.6818143725395203,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00250",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9051339030265808,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00251",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.935698390007019,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00252",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9423015713691711,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00253",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9442121386528015,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00254",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9447956085205078,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00255",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9448488354682922,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00256",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9452012181282043,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00257",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9451421499252319,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00258",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9454190731048584,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00259",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9449819922447205,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00260",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9443947672843933,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00261",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9405838251113892,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00262",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9425522089004517,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00263",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.7576232552528381,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00263",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9348204731941223,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00264",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9429497122764587,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00264",
+        "player_ids": [
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.693533718585968,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00265",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9451943039894104,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00266",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9451581835746765,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00267",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.945098876953125,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00268",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9439277052879333,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00269",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9437395930290222,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00270",
+        "player_ids": [
+            2
+        ],
+        "event_type": 7,
+        "confidence": 0.9435861110687256,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00291",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9276413917541504,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00292",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.930114209651947,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00293",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9277310371398926,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00294",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9313594102859497,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00295",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9258779287338257,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00296",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9306178689002991,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00297",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9309436082839966,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00298",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9302710890769958,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00299",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9273272752761841,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00300",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9308493733406067,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00301",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.930989682674408,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00302",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9313483238220215,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00303",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9312454462051392,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00304",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9312345385551453,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00305",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9295693635940552,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00306",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9314902424812317,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00307",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9310894012451172,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00308",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.930253267288208,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00309",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9080276489257812,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00310",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.8996104001998901,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00311",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9230435490608215,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00312",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.916420578956604,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00313",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.92734694480896,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00314",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9310934543609619,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00315",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9312535524368286,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00316",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9307286739349365,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00317",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9234660863876343,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00318",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9279484152793884,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00319",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.930252194404602,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00320",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9291791319847107,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00321",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.931140124797821,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00322",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9314501285552979,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00323",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9314318895339966,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00324",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.928844690322876,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00325",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9283609390258789,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00326",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 1,
+        "confidence": 0.618053138256073,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00327",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.48048296570777893,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00328",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 1,
+        "confidence": 0.8312559127807617,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00329",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.7856083512306213,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00330",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.5164844989776611,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00331",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 1,
+        "confidence": 0.7274563312530518,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00332",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 1,
+        "confidence": 0.4199877977371216,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00333",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 1,
+        "confidence": 0.5084370970726013,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00334",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 9,
+        "confidence": 0.5526592135429382,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00335",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 1,
+        "confidence": 0.5502114295959473,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00336",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.638394832611084,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00337",
+        "player_ids": [
+            0,
+            2
+        ],
+        "event_type": 6,
+        "confidence": 0.9225409030914307,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00340",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.8865358829498291,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00341",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.8601114153862,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00342",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.7614327073097229,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00343",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 9,
+        "confidence": 0.5206822156906128,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00344",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.8306851983070374,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00345",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.8833503723144531,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00346",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.8764000535011292,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00347",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.6789153218269348,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00348",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.5502493977546692,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00349",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 9,
+        "confidence": 0.6159533858299255,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00350",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.5611310005187988,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00351",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.4614866375923157,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00352",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.683750331401825,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00353",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 9,
+        "confidence": 0.5983235239982605,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00354",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.8541749715805054,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00355",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.8644025325775146,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00356",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.9186499714851379,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00357",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.9231294989585876,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00358",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.9220993518829346,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00359",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.9241896867752075,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00360",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.9253011345863342,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00361",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.9144630432128906,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00362",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.9141645431518555,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00363",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.9127885699272156,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00364",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.9214600324630737,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00365",
+        "player_ids": [
+            2,
+            4
+        ],
+        "event_type": 1,
+        "confidence": 0.9147355556488037,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00374",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.931205689907074,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00375",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.9296970367431641,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00376",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.6345650553703308,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00377",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 9,
+        "confidence": 0.7021964192390442,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00378",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 9,
+        "confidence": 0.6743522882461548,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00379",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.9223842620849609,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00380",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.6947498917579651,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00381",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.9225603938102722,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00382",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 9,
+        "confidence": 0.63570237159729,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00383",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 9,
+        "confidence": 0.7260183691978455,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00384",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.9220312237739563,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00385",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.9300475120544434,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00386",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.9292976260185242,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00387",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.9264780282974243,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00388",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.9292476177215576,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00389",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.9285725951194763,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00390",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.9275381565093994,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00391",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.9229128956794739,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00392",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.9193394780158997,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00393",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.9251213073730469,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00394",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.9293079376220703,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00395",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.9302163124084473,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00396",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.9282844066619873,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00397",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.9294561147689819,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00398",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 6,
+        "confidence": 0.9304379224777222,
+        "is_single_player": false
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00398",
+        "player_ids": [
+            4
+        ],
+        "event_type": 3,
+        "confidence": 0.7925366163253784,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00399",
+        "player_ids": [
+            4
+        ],
+        "event_type": 3,
+        "confidence": 0.6721712946891785,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00400",
+        "player_ids": [
+            4
+        ],
+        "event_type": 3,
+        "confidence": 0.9244418144226074,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00400",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 9,
+        "confidence": 0.7084816694259644,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00400",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 5,
+        "confidence": 0.9372580051422119,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00401",
+        "player_ids": [
+            4
+        ],
+        "event_type": 3,
+        "confidence": 0.9263300895690918,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00401",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 5,
+        "confidence": 0.9388797283172607,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00402",
+        "player_ids": [
+            4
+        ],
+        "event_type": 3,
+        "confidence": 0.9113234877586365,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00402",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 5,
+        "confidence": 0.9444419741630554,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00403",
+        "player_ids": [
+            4
+        ],
+        "event_type": 3,
+        "confidence": 0.9212554097175598,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00403",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 5,
+        "confidence": 0.9468628168106079,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00404",
+        "player_ids": [
+            4
+        ],
+        "event_type": 3,
+        "confidence": 0.9085209369659424,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00404",
+        "player_ids": [
+            4
+        ],
+        "event_type": 4,
+        "confidence": 0.8915479779243469,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00404",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 5,
+        "confidence": 0.9478256702423096,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00405",
+        "player_ids": [
+            4
+        ],
+        "event_type": 4,
+        "confidence": 0.5684506297111511,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00405",
+        "player_ids": [
+            4
+        ],
+        "event_type": 3,
+        "confidence": 0.8882939219474792,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00405",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 5,
+        "confidence": 0.9465725421905518,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00406",
+        "player_ids": [
+            4
+        ],
+        "event_type": 3,
+        "confidence": 0.917587399482727,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00406",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 5,
+        "confidence": 0.9418725371360779,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00407",
+        "player_ids": [
+            4
+        ],
+        "event_type": 3,
+        "confidence": 0.7181575894355774,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00407",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 9,
+        "confidence": 0.7475475072860718,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00408",
+        "player_ids": [
+            4
+        ],
+        "event_type": 4,
+        "confidence": 0.9371302723884583,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00408",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 9,
+        "confidence": 0.7590764760971069,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00409",
+        "player_ids": [
+            4
+        ],
+        "event_type": 4,
+        "confidence": 0.9416329860687256,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00409",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 9,
+        "confidence": 0.7646080851554871,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00410",
+        "player_ids": [
+            4
+        ],
+        "event_type": 4,
+        "confidence": 0.9369214177131653,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00410",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 9,
+        "confidence": 0.772541880607605,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00411",
+        "player_ids": [
+            4
+        ],
+        "event_type": 5,
+        "confidence": 0.9391674399375916,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00411",
+        "player_ids": [
+            4
+        ],
+        "event_type": 4,
+        "confidence": 0.3405087888240814,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00411",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 9,
+        "confidence": 0.7740727066993713,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00412",
+        "player_ids": [
+            4
+        ],
+        "event_type": 5,
+        "confidence": 0.9195778369903564,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00412",
+        "player_ids": [
+            4
+        ],
+        "event_type": 3,
+        "confidence": 0.9324884414672852,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00412",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 9,
+        "confidence": 0.76945561170578,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00413",
+        "player_ids": [
+            4
+        ],
+        "event_type": 5,
+        "confidence": 0.9375415444374084,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00413",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 9,
+        "confidence": 0.7718690633773804,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00414",
+        "player_ids": [
+            4
+        ],
+        "event_type": 3,
+        "confidence": 0.931857168674469,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00414",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 9,
+        "confidence": 0.7693888545036316,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00415",
+        "player_ids": [
+            4
+        ],
+        "event_type": 3,
+        "confidence": 0.9330214262008667,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00415",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 9,
+        "confidence": 0.7414230704307556,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00416",
+        "player_ids": [
+            4
+        ],
+        "event_type": 3,
+        "confidence": 0.9282445311546326,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00416",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 9,
+        "confidence": 0.7631393671035767,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00417",
+        "player_ids": [
+            4
+        ],
+        "event_type": 3,
+        "confidence": 0.9290077090263367,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00417",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 9,
+        "confidence": 0.7700660228729248,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00418",
+        "player_ids": [
+            4
+        ],
+        "event_type": 3,
+        "confidence": 0.9365274906158447,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00418",
+        "player_ids": [
+            1,
+            4
+        ],
+        "event_type": 9,
+        "confidence": 0.7715827822685242,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00419",
+        "player_ids": [
+            4
+        ],
+        "event_type": 3,
+        "confidence": 0.9344648718833923,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00420",
+        "player_ids": [
+            4
+        ],
+        "event_type": 3,
+        "confidence": 0.9237885475158691,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00446",
+        "player_ids": [
+            1
+        ],
+        "event_type": 5,
+        "confidence": 0.9475440979003906,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00447",
+        "player_ids": [
+            1
+        ],
+        "event_type": 5,
+        "confidence": 0.9465827941894531,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00448",
+        "player_ids": [
+            1
+        ],
+        "event_type": 5,
+        "confidence": 0.9474902749061584,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00449",
+        "player_ids": [
+            1
+        ],
+        "event_type": 5,
+        "confidence": 0.9472044110298157,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00450",
+        "player_ids": [
+            1
+        ],
+        "event_type": 5,
+        "confidence": 0.9473268985748291,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00451",
+        "player_ids": [
+            1
+        ],
+        "event_type": 5,
+        "confidence": 0.9457152485847473,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00452",
+        "player_ids": [
+            1
+        ],
+        "event_type": 5,
+        "confidence": 0.9465068578720093,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00453",
+        "player_ids": [
+            1
+        ],
+        "event_type": 5,
+        "confidence": 0.9479373097419739,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00454",
+        "player_ids": [
+            1
+        ],
+        "event_type": 5,
+        "confidence": 0.9480963945388794,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00455",
+        "player_ids": [
+            1
+        ],
+        "event_type": 5,
+        "confidence": 0.9483702778816223,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00456",
+        "player_ids": [
+            1
+        ],
+        "event_type": 5,
+        "confidence": 0.9489778280258179,
+        "is_single_player": true
+    },
+    {
+        "frame_id": "IMG_0113_7569_8026,00457",
+        "player_ids": [
+            1
+        ],
+        "event_type": 5,
+        "confidence": 0.9483994245529175,
+        "is_single_player": true
+    }
+]
